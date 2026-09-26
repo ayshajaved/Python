@@ -1,0 +1,7 @@
+'''
+abstract method
+'''
+
+'''
+mro() / help()
+'''

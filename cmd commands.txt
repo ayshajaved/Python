@@ -1,0 +1,16 @@
+pip install --> to install something
+pip list --> pip installed packages and modules also version
+pip freeze --> packages with version
+mkdir {folder name} --> to create folder
+cd {folder name} --> change directory to created folder
+cd .. --> previous directory
+cd\ main directory
+dir or ls to list the contents in the directory
+rmdir directoryname to remove the folder or file
+systeminfo to get the pc information
+shutdown /s /t 60 --> shutdown after 60 sec
+shutdown /r /t 60 --> restart after 60 sec
+sfc / scannow --> to scan system but can be done by running cmd as an administration
+type file with extension to view the file in cmd
+ren old name new name to rename
+move old directory new dir 

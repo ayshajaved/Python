@@ -1,0 +1,11 @@
+mysql --version       #for showing version of mysql
+mysql -u root -p      #enter and then enter passwod mysql is activated
+show databases;       #showing databases
+use {database name};
+show tables;
+select * from {database.table name}      
+create database {name};
+create table {table name} (fields)      #eg (name varchar(20),place varchar(20))
+insert into table values ("comsats", "lahore")        #diff in python
+#same in cmd and workbench
+in python it is different
